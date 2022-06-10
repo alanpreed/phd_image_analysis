@@ -1,6 +1,6 @@
 # PhD image analysis tools
 
-This repository contains a public record of the image analysis tools developed over the course of my PhD, for processing time-lapse images of budding yeast cells confined within microfluidic traps.
+This repository contains a public record of the image analysis tools developed over the course of my PhD at the University of Warwick, supervised by Professor John McCarthy. These tools were created for processing time-lapse images of budding yeast cells, confined within microfluidic traps.
 
 ## Graphical tools
 
